@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://opto-ricci-hq.vercel.app/sitemap.xml
